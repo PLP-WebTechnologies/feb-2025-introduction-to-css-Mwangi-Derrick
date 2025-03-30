@@ -1,0 +1,44 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 20px;
+    padding: 20px;
+}
+
+/* Styling headings */
+.title {
+    color: #333;
+    text-align: center;
+}
+
+.subtitle {
+    color: #555;
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+/* Styling paragraph */
+.description {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+/* Styling image */
+.styled-image {
+    display: block;
+    width: 60%;
+    margin: 20px auto;
+    border: 5px solid #333;
+    border-radius: 10px;
+}
+
+/* Footer styling */
+#footer-text {
+    text-align: center;
+    color: #666;
+    padding: 10px;
+    border-top: 2px solid #ccc;
+    margin-top: 20px;
+}
